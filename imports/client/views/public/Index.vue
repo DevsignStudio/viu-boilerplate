@@ -172,7 +172,7 @@
 				
 			</div>
             <clearfix class="font-display1 font-thin color-white" style="margin-top: 20px;">Welcome To</clearfix>
-            <clearfix class="font-display1 font-light color-white">Viu Documentation</clearfix>
+            <clearfix class="font-display1 font-light color-white">Viu UI</clearfix>
             <clearfix style="width:auto" class="button-center-container">
 				<a href="https://doc.devsign.my" target="_blank"  rel="noopener"><raised-button v-ripple class="primary background-pink"><icon name="xml"></icon> Start Explore</raised-button></a>
             	<a href="https://github.com/DevsignStudio/viu" target="_blank"  rel="nofollow"><raised-button v-ripple><icon name="github-circle"></icon> Github</raised-button></a>
